@@ -1,1 +1,2 @@
 # brain_tumor_cnn1
+Brain tumors are among the most life-threatening conditions in neuro-related disorders, and early detection is critical for effective treatment. Manual diagnosis through MRI images is time-consuming and subjective. This project proposes an automated system using CNNs, a deep learning approach capable of learning spatial hierarchies in images, to detect tumors accurately. The main objective is to build an efficient model with improved accuracy and robustness through iterative tuning.
